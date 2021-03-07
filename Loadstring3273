@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Bad%20Business.lua"))()
+loadstring(game:HttpGet("https://github.com/yuhsecurity/hazeinfinity/blob/main/Scripts/Arsenal.lua"))()
